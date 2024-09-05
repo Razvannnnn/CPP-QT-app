@@ -1,1 +1,1 @@
-# C-QT-app
+# CPP-QT-app
