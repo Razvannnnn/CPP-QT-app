@@ -1,0 +1,5 @@
+C:/Users/razva/Desktop/GitHub/CPP-QT-app/QTApp/cmake-build-debug/CMakeFiles/QTApp.dir
+C:/Users/razva/Desktop/GitHub/CPP-QT-app/QTApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/razva/Desktop/GitHub/CPP-QT-app/QTApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/razva/Desktop/GitHub/CPP-QT-app/QTApp/cmake-build-debug/CMakeFiles/QTApp_autogen_timestamp_deps.dir
+C:/Users/razva/Desktop/GitHub/CPP-QT-app/QTApp/cmake-build-debug/CMakeFiles/QTApp_autogen.dir
